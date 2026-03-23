@@ -1,13 +1,18 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ConsoleApp01
+namespace ConsoleApp1
 {
-    internal class NewClass
+    class Program
     {
-        //konflikt 612349123490127u48902389758723805780
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Novo Vrijeme");
+            //komentar opis promjene 2026
+        }
+
     }
+
+
+
 }
